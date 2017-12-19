@@ -28,6 +28,7 @@ import static org.junit.Assert.*;
 /**
  * @author Arjen Poutsma
  * @author Juergen Hoeller
+ * @author test
  */
 public class DigestUtilsTests {
 
