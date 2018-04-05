@@ -41,7 +41,7 @@ public class ObjectOptimisticLockingFailureException extends OptimisticLockingFa
 	 * without any information on the affected object.
 	 * @param msg the detail message
 	 * @param cause the source exception
-	 * add some comment
+	 * add some comment sss
 	 */
 	public ObjectOptimisticLockingFailureException(String msg, Throwable cause) {
 		super(msg, cause);
